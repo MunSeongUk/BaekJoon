@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a1ed89d-08c0-4bc7-b725-0de3e94255fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../1000/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1008/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10171/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10172/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10430/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10869/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10926/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10998/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11382/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18108/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2557/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2588/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2OtEuaVRgwggWv7bnRy543xKSUn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a1ed89d-08c0-4bc7-b725-0de3e94255fd" name="Changes" comment="" />
+      <created>1682371701979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682371701979</updated>
+      <workItem from="1682371703454" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
