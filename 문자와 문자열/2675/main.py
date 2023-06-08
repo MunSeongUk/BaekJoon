@@ -6,12 +6,11 @@ answers = []
 while idx < T:
     R, S = input().split(" ")
     R = int(R)
-
+    tmp = ""
     for char in S:
-        tmp = ""
         tmp += char * R
-        answers.append(tmp)
     idx += 1
+    answers.append(tmp)
 
 for answer in answers:
     print(answer)
